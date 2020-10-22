@@ -1,1 +1,5 @@
+<<<<<<< HEAD
  Ab dekhte hain kya hota hai
+=======
+this is the first file in gitHub.
+>>>>>>> 1a1477edec69e9381135da850463f4b6db5c8044
